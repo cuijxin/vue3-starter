@@ -1,0 +1,25 @@
+#app {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100vh;
+}
+
+.center {
+    text-align: center !important;
+}
+
+.border-radius-4 {
+    border-radius: 4px !important;
+}
+
+.border-radius-8 {
+    border-radius: 8px !important;
+}
+
+.vertical-center {
+    vertical-align: middle !important;
+}
+
+.page {
+    height: 100%;
+}
